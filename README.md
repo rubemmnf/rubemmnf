@@ -1,6 +1,6 @@
-[![Rubem Novellino's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubemmnf&count_private=true&show_icons=true&theme=dark)](https://github.com/rubemmnf/github-readme-stats)
+[![Rubem Novellino's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubemmnf&count_private=true&show_icons=true&theme=dracula)](https://github.com/rubemmnf/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubemmnf&layout=compact&theme=dark)](https://github.com/rubemmnf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubemmnf&layout=compact&theme=dracula)](https://github.com/rubemmnf/github-readme-stats)
 
 <!--
 **rubemmnf/rubemmnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
