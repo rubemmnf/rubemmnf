@@ -7,7 +7,7 @@ In addition to being passionate about the financial market and with an insatiabl
 All this transforming the lives of more than 70 families and with more than 2.5 Mi of assets under guidance to optimize the achievement of goals.
 
 - 🔭 I’m currently working as a resident in Robotics and Artificial Intelligence where I am participating in the development of an automation application for HC-UFPE, we used various skills to design a customized solution that meets the institution's needs. Our goal is to apply innovative technologies to optimize processes and improve the operational efficiency of the institution, ensuring that the solution is highly scalable and modular for a complex challenge. 
-🌱 I’m currently learning Python for Data Science
+- 🌱 I’m currently learning Python for Data Science, using libraries like Pandas and Numpy
 
 My CV: [Click Here](https://github.com/rubemmnf/rubemmnf/blob/main/CurriculumVitae-RubemMoraisNovellinoFerraz.pdf)
 
