@@ -11,12 +11,18 @@ All this transforming the lives of more than 70 families and with more than 2.5 
 
 My CV: [Click Here](https://github.com/rubemmnf/rubemmnf/blob/main/CurriculumVitae-RubemMoraisNovellinoFerraz.pdf)
 
-Last update 17/04/2023
+Last update 07/06/2023
 
-[![Rubem Novellino's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubemmnf&count_private=true&show_icons=true&theme=dracula)](https://github.com/rubemmnf/github-readme-stats)
+## Contatos:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubemmnf&layout=compact&theme=dracula)](https://github.com/rubemmnf/github-readme-stats)
+<div>
+<a href = "mailto:rubemmnf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rubemnovellino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
+[![Rubem Novellino's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubemmnf&count_private=true&show_icons=true&theme=dracula)](https://github.com/rubemmnf/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubemmnf&layout=compact&theme=dracula)](https://github.com/rubemmnf/github-readme-stats)
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 <!--
 **rubemmnf/rubemmnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
