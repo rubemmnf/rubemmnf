@@ -13,15 +13,14 @@ My CV: [Click Here](https://github.com/rubemmnf/rubemmnf/blob/main/CurriculumVit
 
 Last update 07/06/2023
 
+[![Rubem Novellino's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubemmnf&count_private=true&show_icons=true&theme=dracula)](https://github.com/rubemmnf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubemmnf&layout=compact&theme=dracula)](https://github.com/rubemmnf/github-readme-stats)
+
 ## Contatos:
 <div>
 <a href = "mailto:rubemmnf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rubemnovellino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-
-
-[![Rubem Novellino's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubemmnf&count_private=true&show_icons=true&theme=dracula)](https://github.com/rubemmnf/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubemmnf&layout=compact&theme=dracula)](https://github.com/rubemmnf/github-readme-stats)
 
 <!--
 **rubemmnf/rubemmnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
